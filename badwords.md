@@ -114,8 +114,6 @@ dominatrics
 
 dominatrix
 
-dyke
-
 enema
 
 f u c k
@@ -182,16 +180,6 @@ Fukkin
 
 g00k
 
-gay
-
-gayboy
-
-gaygirl
-
-gays
-
-gayz
-
 God-damned
 
 h00r
@@ -235,8 +223,6 @@ kunt
 kunts
 
 kuntz
-
-Lesbian
 
 Lezzian
 
@@ -576,8 +562,6 @@ l3itch
 
 l3i+ch
 
-lesbian
-
 masturbate
 
 masterbat*
@@ -647,8 +631,6 @@ whoar
 whore
 
 *damn
-
-*dyke
 
 *fuck*
 
@@ -740,8 +722,6 @@ fuk*
 
 futkretzn
 
-gay
-
 gook
 
 guiena
@@ -787,8 +767,6 @@ kurwa
 kusi*
 
 kyrpa*
-
-lesbo
 
 mamhoon
 
