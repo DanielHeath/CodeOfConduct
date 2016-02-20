@@ -910,6 +910,4 @@ wichser
 
 wop*
 
-yed
-
 zabourah
